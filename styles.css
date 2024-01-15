@@ -12,3 +12,6 @@
   height: auto;
   width: 100%;
 }
+hr.solid {
+  border-top: 3px solid #000000;
+}
